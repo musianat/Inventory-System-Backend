@@ -2,8 +2,7 @@ package BSTree;
 
 /**
  * Created by nathanielmusial on 3/24/17.
- * Project 4
- * ntm160030
+ 
  */
 public class Node {
     String Title;
